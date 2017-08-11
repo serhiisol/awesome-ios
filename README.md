@@ -1,6 +1,13 @@
-# ios-for-beginners
-
+# Awesome iOS
 Сurated list of awesome things to learn/know/use for iOS development for beginners
 
-1) [Cocoapods](https://guides.cocoapods.org) - swift/objc package manager
-2) [Alamofire](https://github.com/Alamofire/Alamofire) - networking package
+## Help us to make this list better!
+
+## Contents
+
+1. [Usefull Links](#Usefull Links)
+
+
+## Usefull Links
+* [Cocoapods](https://guides.cocoapods.org) - swift/objc package manager
+* [Alamofire](https://github.com/Alamofire/Alamofire) - networking package
