@@ -4,13 +4,12 @@
 ## Help us to make this list better!
 
 ## Contents
-
 1. [Principal](#principal)
 2. [Codestyle](#codestyle)
 3. [Usefull Links](#usefull-links)
 
 ## Principal
-
+* [Complete playlist with tutorials](https://www.youtube.com/playlist?list=PLpZBns8dFbgx0gr68lf-un9EjdmywTu4_) - Youtube
 * [UIStackView](https://www.youtube.com/watch?v=O0llR7sfrkc) - YouTube
 * [Switching between storyboards](https://stackoverflow.com/questions/29505916/switch-between-storyboards-using-swift) - Stackoverflow thread
 * [Transport security options](https://stackoverflow.com/questions/31254725/transport-security-has-blocked-a-cleartext-http) - Stackoverflow thread
