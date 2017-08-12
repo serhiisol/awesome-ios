@@ -15,7 +15,8 @@
 * [Transport security options](https://stackoverflow.com/questions/31254725/transport-security-has-blocked-a-cleartext-http) - Stackoverflow thread
 * [Navigating between view controllers using storyboard and navigation controller](https://stackoverflow.com/questions/24038215/how-to-navigate-from-one-view-controller-to-another-using-swift) - Stackoverflow thread
 * [Custom table view cell](https://www.youtube.com/watch?v=zAWO9rldyUE) - Youtube
-* [Custom navigation bar](https://youtu.be/APQVltARKF8?t=15m19s) - Youtube
+* Custom navigation bar: [Youtube](https://youtu.be/APQVltARKF8?t=15m19s), [Youtube](https://www.youtube.com/watch?v=zS-CCd4xmRY), [coderwall](https://coderwall.com/p/dyqrfa/customize-navigation-bar-appearance-with-swift)
+* Custom tab bar: [adambardon](http://blog.adambardon.com/how-to-create-custom-tab-bar-in-swift-part-1/)
 
 ## Codestyle
 * [Github styleguide](https://github.com/github/swift-style-guide)
