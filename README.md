@@ -14,6 +14,8 @@
 * [Switching between storyboards](https://stackoverflow.com/questions/29505916/switch-between-storyboards-using-swift) - Stackoverflow thread
 * [Transport security options](https://stackoverflow.com/questions/31254725/transport-security-has-blocked-a-cleartext-http) - Stackoverflow thread
 * [Navigating between view controllers using storyboard and navigation controller](https://stackoverflow.com/questions/24038215/how-to-navigate-from-one-view-controller-to-another-using-swift) - Stackoverflow thread
+* [Custom table view cell](https://www.youtube.com/watch?v=zAWO9rldyUE) - Youtube
+* [Custom navigation bar](https://www.youtube.com/watch?v=APQVltARKF8) - Youtube
 
 ## Codestyle
 * [Github styleguide](https://github.com/github/swift-style-guide)
