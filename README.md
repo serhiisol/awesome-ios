@@ -17,6 +17,7 @@
 * [Custom table view cell](https://www.youtube.com/watch?v=zAWO9rldyUE) - Youtube
 * Custom navigation bar: [Youtube](https://youtu.be/APQVltARKF8?t=15m19s), [Youtube](https://www.youtube.com/watch?v=zS-CCd4xmRY), [coderwall](https://coderwall.com/p/dyqrfa/customize-navigation-bar-appearance-with-swift)
 * Custom tab bar: [adambardon](http://blog.adambardon.com/how-to-create-custom-tab-bar-in-swift-part-1/)
+* [Facebook login](https://developers.facebook.com/docs/swift/login)
 
 ## Codestyle
 * [Github styleguide](https://github.com/github/swift-style-guide)
