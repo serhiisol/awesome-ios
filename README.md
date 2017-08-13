@@ -5,6 +5,7 @@
 
 ## Contents
 1. [Principal](#principal)
+2. [Social Login](#social-login)
 2. [Codestyle](#codestyle)
 3. [Usefull Links](#usefull-links)
 
@@ -17,6 +18,9 @@
 * [Custom table view cell](https://www.youtube.com/watch?v=zAWO9rldyUE) - Youtube
 * Custom navigation bar: [Youtube](https://youtu.be/APQVltARKF8?t=15m19s), [Youtube](https://www.youtube.com/watch?v=zS-CCd4xmRY), [coderwall](https://coderwall.com/p/dyqrfa/customize-navigation-bar-appearance-with-swift)
 * Custom tab bar: [adambardon](http://blog.adambardon.com/how-to-create-custom-tab-bar-in-swift-part-1/)
+* [Collection view](https://randexdev.com/2014/08/uicollectionviewcell/)
+
+## Social Login
 * [Facebook login](https://developers.facebook.com/docs/swift/login)
 
 ## Codestyle
