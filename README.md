@@ -19,6 +19,7 @@
 * Custom navigation bar: [Youtube](https://youtu.be/APQVltARKF8?t=15m19s), [Youtube](https://www.youtube.com/watch?v=zS-CCd4xmRY), [coderwall](https://coderwall.com/p/dyqrfa/customize-navigation-bar-appearance-with-swift)
 * Custom tab bar: [adambardon](http://blog.adambardon.com/how-to-create-custom-tab-bar-in-swift-part-1/)
 * [Collection view](https://randexdev.com/2014/08/uicollectionviewcell/)
+* [UIImage](https://stackoverflow.com/a/27712427)
 
 ## Social Login
 * [Facebook login](https://developers.facebook.com/docs/swift/login)
